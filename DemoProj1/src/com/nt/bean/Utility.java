@@ -7,5 +7,10 @@ public class Utility {
 	public Date getSysDate() {
 		return new Date();
 	}
+	
+	public void m1()
+	{
+		System.out.println("m1 added");
+	}
 
 }
